@@ -9,8 +9,3 @@ This app can help you you track your expenses and income. It allows you to add, 
 - Add, edit, and delete transactions
 - View balance
 - View transaction history
-
-# tutorial log
-
-- watch the tutorial video
-- 59:45
